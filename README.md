@@ -1,4 +1,5 @@
 # The Rust example of the end-to-end encryption approach (key exchange);
+*Link to the [guide](https://kerkour.com/end-to-end-encryption-key-exchange-cryptography-rust)*
 
 ## How it works:
 
